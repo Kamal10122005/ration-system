@@ -1,0 +1,5 @@
+id	int	NO	PRI		auto_increment
+user_id	int	YES			
+item_name	varchar(50)	YES			
+quantity	int	YES			
+date	timestamp	YES		CURRENT_TIMESTAMP	DEFAULT_GENERATED
